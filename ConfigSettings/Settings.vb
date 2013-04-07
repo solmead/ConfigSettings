@@ -65,6 +65,7 @@ Public Class Settings
                 CSS.ConnectionString = value
             End If
             config.Save()
+
         End Set
     End Property
     Public Shared Property ConfigProperty(ByVal Name As String) As String
