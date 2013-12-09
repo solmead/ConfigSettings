@@ -1,0 +1,1 @@
+"..\.nuget\nuget" pack ConfigSettings.vbproj -IncludeReferencedProjects

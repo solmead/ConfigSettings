@@ -9,11 +9,11 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("ConfigSettings")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyDescription("Config Settings Handling")> 
+<Assembly: AssemblyCompany("Solmead Productions")> 
 <Assembly: AssemblyProduct("ConfigSettings")> 
 <Assembly: AssemblyCopyright("Copyright ©  2012")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTrademark("Solmead Productions")> 
 
 <Assembly: ComVisible(False)>
 
